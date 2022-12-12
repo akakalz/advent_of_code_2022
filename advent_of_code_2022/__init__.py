@@ -1,10 +1,10 @@
-from day_01 import Day1
-from day_02 import Day2
-from day_03 import Day3
-from day_04 import Day4
-from day_05 import Day5
-from day_06 import Day6
-from day_07 import Day7
+from advent_of_code_2022.day_01 import Day1
+from advent_of_code_2022.day_02 import Day2
+from advent_of_code_2022.day_03 import Day3
+from advent_of_code_2022.day_04 import Day4
+from advent_of_code_2022.day_05 import Day5
+from advent_of_code_2022.day_06 import Day6
+from advent_of_code_2022.day_07 import Day7
 # from day_08 import Day8
 # from day_09 import Day9
 # from day_10 import Day10
