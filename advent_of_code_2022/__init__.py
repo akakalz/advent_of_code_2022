@@ -9,12 +9,12 @@ from advent_of_code_2022.day_08 import Day8
 from advent_of_code_2022.day_09 import Day9
 from advent_of_code_2022.day_10 import Day10
 from advent_of_code_2022.day_11 import Day11
-# from day_12 import Day12
+from advent_of_code_2022.day_12 import Day12
 # from day_13 import Day13
 # from day_14 import Day14
 # from day_15 import Day15
 
 
-days = [Day1, Day2, Day3, Day4, Day5, Day6, Day7, Day8, Day9, Day10, Day11]
+days = [Day1, Day2, Day3, Day4, Day5, Day6, Day7, Day8, Day9, Day10, Day11, Day12]
 
-current_day = [Day11]
+current_day = [Day12]
